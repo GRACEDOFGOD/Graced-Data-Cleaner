@@ -1,7 +1,7 @@
-#  🧹 Scrubly — Smart Data Cleaning Made Simple</h1> 
-
   <img src=./logo.jpeg/ width= '160'>
 </p>
+
+#  🧹 Scrubly — Smart Data Cleaning Made Simple</h1> 
 
 
 ## 🚀 Overview
