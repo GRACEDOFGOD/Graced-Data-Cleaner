@@ -1,4 +1,4 @@
-# 🧹 Scrubly — Smart Data Cleaning Made Simple
+<p align="center"># 🧹 Scrubly — Smart Data Cleaning Made Simple
 
 <p align="center">
   <img src=./logo.jpeg/ width= '160'>
