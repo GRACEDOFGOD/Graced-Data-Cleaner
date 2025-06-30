@@ -1,7 +1,7 @@
 # 🧹 Scrubly — Smart Data Cleaning Made Simple
 
 <p align="center">
-  <img src=./logo.jpeg/>
+  <img src=./logo.jpeg/ width= '100'>
 </p>
 
 
