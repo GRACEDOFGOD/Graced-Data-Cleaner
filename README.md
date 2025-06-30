@@ -134,8 +134,8 @@ Scrubly helps users transform raw, unstructured data into clean, analysis-ready 
 
 ## 🧑‍💻 Built & Maintained By
 
-**Scrubly** is a personal project crafted with care by **[Your Name or Brand Name]**.  
-Built to serve analysts, students, educators, and AI lovers around the world.  
+**Scrubly** is a personal project crafted with care by **[Eniitan Oluwatoyin]**.  
+Built for the glory of God and to serve to serve analysts, students, educators, and AI lovers around the world.  
 
 If you'd like to collaborate, sponsor, or integrate Scrubly with your platform, feel free to reach out.
 
