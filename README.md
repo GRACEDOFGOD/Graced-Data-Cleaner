@@ -1,6 +1,5 @@
-<p align="center"><h1>                                                   🧹 Scrubly — Smart Data Cleaning Made Simple</h1> 
+#  🧹 Scrubly — Smart Data Cleaning Made Simple</h1> 
 
-<p align="center">
   <img src=./logo.jpeg/ width= '160'>
 </p>
 
