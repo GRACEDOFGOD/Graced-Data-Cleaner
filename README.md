@@ -1,5 +1,12 @@
 # 🧹 Scrubly — Smart Data Cleaning Made Simple
 
+<p align="center">
+  <img src="logo"/>
+</p>
+
+<h1 align="center">🧹 Scrubly — Smart Data Cleaning Made Simple</h1>
+
+
 ## 🚀 Overview
 
 **Scrubly** is a smart, modern, and beautifully designed AI-powered data cleaning web app built for **data scientists, analysts, students, researchers**, and business professionals who work with messy datasets. It offers a powerful yet user-friendly way to **upload, clean, analyze, and export datasets** — all through an interactive, intuitive, and automated interface.
