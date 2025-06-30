@@ -1,8 +1,7 @@
 # 🧹 Scrubly — Smart Data Cleaning Made Simple
 
 <p align="center">
-  ![Scrubly Logo](./logo.jpeg)
-  <img src="https://yourdomain.com/path-to-scrubly-logo.png" alt="Scrubly Logo" width="200"/>
+  <img src=./logo.jpeg/>
 </p>
 
 
