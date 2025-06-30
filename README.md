@@ -1,7 +1,7 @@
 # 🧹 Scrubly — Smart Data Cleaning Made Simple
 
 <p align="center">
-  <img src="logo.jepg"/>
+  <img src=./"logo.jepg">
 </p>
 
 <h1 align="center">🧹 Scrubly — Smart Data Cleaning Made Simple</h1>
