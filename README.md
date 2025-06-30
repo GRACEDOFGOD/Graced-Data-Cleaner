@@ -1,10 +1,9 @@
 # 🧹 Scrubly — Smart Data Cleaning Made Simple
 
 <p align="center">
-  <img src=./"logo.jepg">
+  <img src="https://yourdomain.com/path-to-scrubly-logo.png" alt="Scrubly Logo" width="200"/>
 </p>
-
-<h1 align="center">🧹 Scrubly — Smart Data Cleaning Made Simple</h1>
+![Scrubly Logo](./logo.jepg)
 
 
 ## 🚀 Overview
